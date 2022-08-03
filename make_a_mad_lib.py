@@ -7,7 +7,7 @@ noun_2 = input("Enter a noun: ")
 adjective_1 = input("Enter an adjective: ")
 
 adverb_1 = input("Enter an adverb: ")
-verb_1  = input("Enter a verb: ")
+verb_1  = input("Enter a verb ending in ing: ")
 animal_1 = input("Enter an animal: ")
 
 animal_2 = input("Enter an animal: ")
